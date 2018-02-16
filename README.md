@@ -5,7 +5,7 @@ Python script to extract iksm_session from Android rooted device through SSH.
 This is only for Android ROOTED device.
 The iksm_session token can be found in the following file : /data/data/com.nintendo.znca/app_webview/Cookies
 
-This Python script simply extract it from the file through SHH connection. Just configure your ip, username and password before executing.
+This Python script simply extract the token from this file through SHH connection. Just configure your ip, username and password before executing.
 
 ## Use / Related
 iksm_session token can be used to access the Splatnet API (Splatoon 2).
