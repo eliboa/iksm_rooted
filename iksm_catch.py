@@ -27,7 +27,7 @@ def main():
 
         ssh.close()
     except:
-        print 'Cannnot connect to 192.168.1.99'
+        print 'Cannnot connect to ' + host
 
     input()
 
