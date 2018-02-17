@@ -29,7 +29,5 @@ def main():
     except:
         print 'Cannnot connect to ' + host
 
-    input()
-
 if __name__ == '__main__':
     main()
