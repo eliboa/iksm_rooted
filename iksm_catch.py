@@ -6,7 +6,7 @@ import paramiko, re
 host = '192.168.1.99';
 username = 'root'
 password = 'your_password'
-cookie_path = '/data/data/com.nintendo.znca/app_webview/Cookies'
+cookie_path = '/data/user/0/com.nintendo.znca/app_webview/Cookies'
 
 def main():
 
