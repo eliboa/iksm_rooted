@@ -3,7 +3,7 @@ Python script to extract iksm_session from Android rooted device through SSH.
 
 ## How to get your iksm_session ?
 This is only for Android ROOTED device.
-The iksm_session token can be found in the following file : /data/data/com.nintendo.znca/app_webview/Cookies
+The iksm_session token can be found in the following file : /data/user/0/com.nintendo.znca/app_webview/Cookies
 
 This Python script simply extract the token from this file through SHH connection. Just set your ip, username and password before executing.
 
